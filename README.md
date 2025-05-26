@@ -125,6 +125,8 @@ pip install -r requirements.txt
 * **Samarth Jadhav**
 * **Manish Dhatrak**
 * **Pawan Kudke**
+* **Sakshi Fatangare**
+* **Nisha Pavane**
 
 📬 Contact: **[manishdhatrak1121@gmail.com](mailto:manishdhatrak1121@gmail.com)**
 
